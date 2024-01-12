@@ -1,0 +1,4 @@
+@article{REPO307,
+    author = "Ramesh, Aditya and Dhariwal, Prafulla and Nichol, Alex and Chu, Casey and Chen, Mark",
+    title = "{Hierarchical Text-Conditional Image Generation with CLIP Latents}"
+}
