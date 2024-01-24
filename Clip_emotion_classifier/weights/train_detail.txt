@@ -1,0 +1,28 @@
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17, lr, epoch, train_loss, train_acc, val_loss, val_acc
+2023-10-17,0.001,0,0.5940283269265366,0.7883913167726845,0.49587901347392316,0.8132091447925487,0.8132091447925487
+2023-10-17,0.001,1,0.500968956357941,0.812184460367693,0.4817067739125845,0.8176121930567316,0.8176121930567316
+2023-10-17,0.001,2,0.4873195690822892,0.8172860151776548,0.4713981009818412,0.8186282811176969,0.8186282811176969
+2023-10-17,0.001,3,0.47982545226782086,0.8197944560281961,0.4734160552153716,0.8174428450465707,0.8186282811176969
+2023-10-17,0.001,4,0.47547296148778784,0.8206517712555964,0.4709246248812289,0.8221845893310754,0.8221845893310754
+2023-10-17,0.001,5,0.47258006456622503,0.8219218678887819,0.4712669578758446,0.8216765453005928,0.8221845893310754
